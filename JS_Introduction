@@ -1,0 +1,23 @@
+JavaScript: In-browers js executes in Browser.
+-> It adds new HTML and change exisiting HTML from DOM
+-> React to events -> response from server
+                   -> key press
+                   -> mouse movement etc.
+-> Ajax Request: Asynchronous javascript and xml
+-> Get & set cookies & use local storage (browser storage)
+
+What IN_Browser JS can't do?
+-> can't Read/Write to & from computer Hard Disk
+-> your website cannot access other website open in other tab using ajax Request or any other way.
+   Inshort we can say one cannot access non-permitted resources.
+
+What makes JS unique.
+-> Its has HTML/CSS support
+-> Simple API
+-> Support Modern browsers. Enable by default
+
+JavaScript Versions
+-> It is maintained by community
+-> ECMA -> It is a scripting standard made to maintain JS. ECMA script keeps on giving us updates for JS.
+           
+
