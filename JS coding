@@ -1,0 +1,9 @@
+Variables (var) bas var likh k kuch bhi usme save krva lo, no need different data types used.
+you can write string using " " , ' ', ` `. replace text with variable ${string_variable}
+
+String functions
+indexof: first occurence of sunstring
+lastindex: last occurence of substring
+slice(start,end): slicing
+substr(start,NumberOfChar): used for slicing
+replace(original,tobeReplace)
